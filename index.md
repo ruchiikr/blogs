@@ -1,23 +1,12 @@
 ---
-title: "Welcome to Tech Hiring Guide"
-description: "Find expert hiring tips for fullstack developers, software engineers, and more."
+layout: default
+title: "Blog"
 ---
 
-# Welcome to Tech Hiring Guide
+# Latest Blog Posts
 
-Are you looking to hire top-tier tech talent? Our platform provides in-depth guides on hiring **fullstack developers, software engineers, and other tech professionals**.
+{% for post in site.posts %}
+  <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>  
+{% endfor %}
+<p>This post is about how I was able to set up my Jekyll blog using Jekyll + GitHub-pages. It's from a perception of a person new to Jekyll.</p>
 
-## What You'll Learn
-
-- How to hire a **fullstack developer**
-- Best platforms to find skilled developers
-- Screening and interview processes
-- Salary expectations and industry trends
-
-## Featured Article
-
-➡ [**Hiring a Fullstack Developer: The Ultimate Guide**](hiring-fullstack-developer.md)
-
----
-
-🚀 Stay updated with the latest hiring trends in tech!
