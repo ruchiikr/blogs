@@ -8,8 +8,10 @@ nav:
   - About: about.md
   - Contact: contact.md
 plugins:
+  - jekyll-remote-theme
   - search
   - markdown-extradata
+remote_theme: squidfunk/mkdocs-material
 markdown_extensions:
   - toc:
       permalink: true
