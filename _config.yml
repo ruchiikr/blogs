@@ -1,7 +1,7 @@
 site_name: "Tech Hiring Guide"
 site_description: "Your go-to resource for hiring top tech talent, including fullstack developers."
 site_url: "https://ruchiikr.github.io"
-theme: material
+theme: jekyll-theme-material
 nav:
   - Home: index.md
   - Hiring Fullstack Developer: hiring-fullstack-developer.md
