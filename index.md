@@ -3,7 +3,7 @@ layout: default
 title: "Blog"
 ---
 
-# Latest Blog Posts
+# My Latest Blog Posts
 
 {% for post in site.posts %}
 
