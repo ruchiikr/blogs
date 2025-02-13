@@ -13,15 +13,15 @@ Web development has evolved rapidly, and today, Full-Stack Developers play a cru
 
 In this, I’ll explore the key skills, technologies, and the role of a Full-Stack Developer in web development. Whether you're looking to step into this field or just curious about what they do, this guide will give you a clear picture.
 
-## who is a Full-Stack Developer?
+## Who is a Full-Stack Developer?
 
 A Full-Stack Developer is someone skilled in both frontend and backend. They can handle everything from designing user interfaces to managing databases and servers. This ability makes them highly valuable in the development process.
 
 ## Why Are Full-Stack Developers Important?
 
-**Work on both frontend and backend,** reducing the need for multiple specialists.
-**Speed up development,** as they understand system architecture end-to-end.
-**Adapt to different technologies,** making them ideal for evolving projects.
+- **Work on both frontend and backend,** reducing the need for multiple specialists.
+- **Speed up development,** as they understand system architecture end-to-end.
+- **Adapt to different technologies,** making them ideal for evolving projects.
 
 ## Key Skills of a Full-Stack Developer
 
