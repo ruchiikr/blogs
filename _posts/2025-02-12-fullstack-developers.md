@@ -7,6 +7,8 @@ author: "Ruchi Kumari"
 
 # Full stack Developers: The All-Knowing Geniuses of Web Development
 
+![Full Stack](/blogs/images/full-stack.jpg)
+
 ## Introduction
 
 The web development field has changed dramatically and nowadays full-stack developers are playing an essential role in development of modern applications. They are the connectors that link the front to the back and therefore guarantee uninterrupted operation and great user experience. But what is it that actually makes a true full-stack developer?
@@ -15,19 +17,25 @@ This guide will discuss the essential skills, technologies, and responsibilities
 
 ## What is a Full-Stack Developer?
 
+![Full Stack](/blogs/images/what-fullstack.jpg)
+
 A Full-Stack Developer is an expert in frontend and backend development. They dabble from the definition of an efficient system UI screen to the system of database and server management. This versatility immensely enhances them throughout the development process.
 
 ## Why is a Full-Stack Developers Important?
 
+![Full Stack](/blogs/images/why-fullstack.jpg)
+
 Both frontend and backend are involved, so there are not too many experts working within a single project.
 
-Higher speed of development+, since they know the complete system architecture by heart.
+Higher speed of development, since they know the complete system architecture by heart.
 
 It is applicable to multiple technology stacks, that is highly flexible depending on specific projects.
 
 ## Primary Skills of a Full-Stack Developer
 
 ### 1. Frontend Development
+
+![Front End](/blogs/images/front-end.jpg)
 
 A good frontend developer needs to master:
 
@@ -39,6 +47,8 @@ Responsive design The user interface should be perfectly rendered on all good sc
 
 ### 2. Backend Development
 
+![Back End](/blogs/images/back-end.jpg)
+
 A competent backend developer should have knowledge in:
 
 Programming language - Node.js, Python, Java, Ruby, or PHP.
@@ -49,7 +59,9 @@ RESTful or GraphQL API that provides for effective data manipulation is provided
 
 ### 3. DevOps & Deployment
 
-Application building is just as important as and managing it, but also deploying it. A suitable candidate for the review should be proficient in:
+![Dev Ops](/blogs/images/dev-ops.jpg)
+
+Application building is just as important as managing it, but also deploying it. A suitable candidate for the review should be proficient in:
 
 Version control-Git and tools such as GitHub or GitLab.
 Cloud platforms-AWS, Google Cloud, or Azure.
