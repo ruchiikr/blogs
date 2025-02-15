@@ -43,7 +43,7 @@ Responsive design The user interface should be perfectly rendered on all good sc
 
 ### 2. Backend Development
 
-<img src="/blogs/images/back-end.jpg" alt="Image showing the role of the full-stack developer in backend development." width="300">
+<img src="/blogs/images/back-end.jpg" alt="Image showing the role of the full-stack developer in backend development." width="300" height="300">
 
 A competent backend developer should have knowledge in:
 
@@ -55,7 +55,7 @@ RESTful or GraphQL API that provides for effective data manipulation is provided
 
 ### 3. DevOps & Deployment
 
-<img src="/blogs/images/dev-ops.jpg" alt="Image showing DevOps workflow diagram." width="400">
+<img src="/blogs/images/dev-ops.jpg" alt="Image showing DevOps workflow diagram." width="400" height="300">
 
 Application building is just as important as managing it, but also deploying it. A suitable candidate for the review should be proficient in:
 
