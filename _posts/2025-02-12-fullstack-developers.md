@@ -7,7 +7,7 @@ author: "Ruchi Kumari"
 
 # Full stack Developers: The All-Knowing Geniuses of Web Development
 
-![Full Stack](/blogs/images/full-stack.jpg)
+<img src="/blogs/images/full-stack.jpg" alt="Image showing full-stack development" width="400">
 
 ## Introduction
 
@@ -17,13 +17,9 @@ This guide will discuss the essential skills, technologies, and responsibilities
 
 ## What is a Full-Stack Developer?
 
-![Full Stack](/blogs/images/what-fullstack.jpg)
-
 A Full-Stack Developer is an expert in frontend and backend development. They dabble from the definition of an efficient system UI screen to the system of database and server management. This versatility immensely enhances them throughout the development process.
 
 ## Why is a Full-Stack Developers Important?
-
-![Full Stack](/blogs/images/why-fullstack.jpg)
 
 Both frontend and backend are involved, so there are not too many experts working within a single project.
 
@@ -35,7 +31,7 @@ It is applicable to multiple technology stacks, that is highly flexible dependin
 
 ### 1. Frontend Development
 
-![Front End](/blogs/images/front-end.jpg)
+<img src="/blogs/images/front-end.jpg" alt="Image showing the role of the full-stack developer in frontend development." width="400">
 
 A good frontend developer needs to master:
 
@@ -47,7 +43,7 @@ Responsive design The user interface should be perfectly rendered on all good sc
 
 ### 2. Backend Development
 
-![Back End](/blogs/images/back-end.jpg)
+<img src="/blogs/images/back-end.jpg" alt="Image showing the role of the full-stack developer in backend development." width="400">
 
 A competent backend developer should have knowledge in:
 
@@ -59,7 +55,7 @@ RESTful or GraphQL API that provides for effective data manipulation is provided
 
 ### 3. DevOps & Deployment
 
-![Dev Ops](/blogs/images/dev-ops.jpg)
+<img src="/blogs/images/dev-ops.jpg" alt="Image showing DevOps workflow diagram." width="400">
 
 Application building is just as important as managing it, but also deploying it. A suitable candidate for the review should be proficient in:
 
