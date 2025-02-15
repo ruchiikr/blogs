@@ -31,7 +31,7 @@ It is applicable to multiple technology stacks, that is highly flexible dependin
 
 ### 1. Frontend Development
 
-<img src="/blogs/images/front-end.jpg" alt="Image showing the role of the full-stack developer in frontend development." width="400">
+<img src="/blogs/images/front-end.jpg" alt="Image showing the role of the full-stack developer in frontend development." width="300">
 
 A good frontend developer needs to master:
 
@@ -43,7 +43,7 @@ Responsive design The user interface should be perfectly rendered on all good sc
 
 ### 2. Backend Development
 
-<img src="/blogs/images/back-end.jpg" alt="Image showing the role of the full-stack developer in backend development." width="400">
+<img src="/blogs/images/back-end.jpg" alt="Image showing the role of the full-stack developer in backend development." width="300">
 
 A competent backend developer should have knowledge in:
 
