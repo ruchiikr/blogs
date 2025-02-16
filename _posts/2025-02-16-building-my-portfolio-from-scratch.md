@@ -65,4 +65,4 @@ I also optimized it by:
 
 Building my portfolio website from scratch was a fulfilling experience. It helped me use my HTML, CSS skills while creating something that represents my work. If you're thinking about creating one, start simple and make it over time!
 
-Check out my portfolio: [GitHub Repository](https://github.com/ruchiikr)
+Check out my portfolio: [Portfolio Link](https://ruchiikr.github.io)
