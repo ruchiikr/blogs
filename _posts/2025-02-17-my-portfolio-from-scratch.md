@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "How I Build My Portfolio from Scratch"
-date: 2025-02-12
+title: "Building My Portfolio from Scratch"
+date: 2025-02-17
+description: "A step-by-step guide on how I built my portfolio website from scratch using HTML, CSS, and GitHub Pages."
 author: "Ruchi Kumari"
 ---
 

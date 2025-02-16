@@ -2,6 +2,7 @@
 layout: default
 title: "Full-Stack Developers"
 date: 2025-02-12
+description: "This post explores the role of Full-Stack Developers, highlighting their diverse skill set, key technologies, and why they are essential in modern web development."
 author: "Ruchi Kumari"
 ---
 
