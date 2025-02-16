@@ -1,5 +1,5 @@
 title: "My Blog"
-description: "Insights and tips on becoming a skilled Full-Stack Developer."
+description: "A platform where I write about my experiences, insights, and learnings on web development, design, and tech."
 baseurl: "/blogs"
 url: "https://ruchiikr.github.io"
 theme: minima
