@@ -6,7 +6,7 @@ description: "This blog explores how AI is helping Full-Stack Developers by maki
 author: "Ruchi Kumari"
 ---
 
-<img src="/blogs/images/visual selection.png" alt="The Intersection of AI and Full-Stack Development" width="400">
+<img src="/blogs/images/visual selection.png" alt="The Intersection of AI and Full-Stack Development" width="450">
 
 ## Full-Stack Development
 
@@ -18,7 +18,7 @@ Artificial Intelligence refers to technologies that enable machines to perform t
 
 ## How AI is Helping Full-Stack Developers
 
-<img src="/blogs/images/Helping Full-Stack Developers.png" alt="How AI is Helping Full-Stack Developers" width="300">
+<img src="/blogs/images/Helping Full-Stack Developers.png" alt="How AI is Helping Full-Stack Developers" width="450">
 
 Rather than replacing developers, AI is enhancing their ability to work more efficiently and effectively. Here’s how AI is already playing a crucial role:
 
@@ -63,7 +63,7 @@ Codacy and SonarQube: Review code to ensure best practices are followed, helping
 
 ## Why AI Will Not Replace Full-Stack Developers
 
-<img src="/blogs/images/Replace Full-Stack Developers.png" alt="Why AI Won’t Replace Full-Stack Developers" width="300">
+<img src="/blogs/images/Replace Full-Stack Developers.png" alt="Why AI Won’t Replace Full-Stack Developers" width="450">
 
 While AI is a fantastic assistant, it lacks some essential qualities that human developers bring to the table:
 
